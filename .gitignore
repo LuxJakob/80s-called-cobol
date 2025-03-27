@@ -1,0 +1,22 @@
+# COBOL build artifacts
+/HELLO
+/VARS
+
+# VS Code workspace/settings
+.vscode/
+
+# Dependency directories
+bin/
+obj/
+build/
+out/
+lib/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# OS metadata
+.DS_Store
+Thumbs.db
