@@ -29,3 +29,16 @@ A simple project to explore COBOL programming on a Linux machine.
    ```
    Hello World!
    ```
+
+## Compiling other files
+   ```bash
+   cobc -x -o HELLO HELLO.cbl
+   ```
+   
+   ```bash
+   cobc -x -o VARS VARIABLES.cbl
+   ```
+
+   ```bash
+   cobc -x -o CONDITIONALS CONDITIONALS.cbl
+   ```

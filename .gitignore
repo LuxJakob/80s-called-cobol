@@ -1,6 +1,7 @@
 # COBOL build artifacts
 /HELLO
 /VARS
+/CONDITIONALS
 
 # VS Code workspace/settings
 .vscode/
